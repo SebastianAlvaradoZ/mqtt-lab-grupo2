@@ -1,4 +1,4 @@
-# Laboratorio 11 – Servidor MQTT (Mosquitto) en Debian 12 – Cliente en Node.js
+# Laboratorio 10 – Servidor MQTT (Mosquitto) en Debian 12 – Cliente en Node.js
 
 **Grupo 2** – Tecnologías Emergentes, Tecsup 2026-I
 
